@@ -1,6 +1,6 @@
 # Olá! Sou Paulo Barros, Engenheiro Físico! 🏗️
 
-Especialista em modelagem e análise de pórticos e estruturas metálicas, com foco em conformidade com normas ABNT (NBR 8800/16239). Utilizo Python como ferramenta de análise de dados e cálculos estruturais e ANSYS/FreeCAD para validar integridade sob condições severas de carga.
+Especialista em modelagem e análise de pórticos e estruturas metálicas, com foco em conformidade com normas ABNT (NBR 8800/16239). Utilizo Python como ferramenta de análise de dados e cálculos estruturais e ANSYS/FreeCAD para validar integridade sob condições severas de carga e modelagem 3D.
 
 ### 🛠️ Minhas Ferramentas de Engenharia
 - **Simulação (MEF):** ANSYS Mechanical (Estático, Fadiga, Flambagem).
